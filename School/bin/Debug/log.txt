@@ -1,0 +1,29 @@
+New user was created with name -> SignupDateTest username -> SignupDateTest gender-> male date of Brith -> 1/1/0001 12:00:00 AM photo name -> SignupDateTest.jpg this file was created at --->7/31/2021 7:29:44 AM
+New user was created with name -> SignupDateTest2 username -> SignupDateTest2 gender-> male date of Brith -> 8/1/2021 12:00:00 AM photo name -> SignupDateTest2.jpg this file was created at --->7/31/2021 7:46:51 AM
+New user was created with name -> SignupDateTest3 username -> SignupDateTest3 gender-> male date of Brith -> 5/1/1998 12:00:00 AM photo name -> SignupDateTest3.jpg this file was created at --->7/31/2021 7:48:41 AM
+New user was created with name -> SignupDateTest5 username -> SignupDateTest5 gender->  femail date of Brith -> 6/30/2021 12:00:00 AM photo name -> SignupDateTest5.jpg this file was created at --->7/31/2021 7:54:57 AM
+New user was created with name -> SignupDateTest6 username -> SignupDateTest6 gender->  femail date of Brith -> 1/1/0001 12:00:00 AM photo name -> SignupDateTest6.jpg this file was created at --->7/31/2021 8:17:45 AM
+New user was created with name -> SignupDateTest7 username -> SignupDateTest7 gender->  femail date of Brith -> 12/31/2021 12:00:00 AM photo name -> SignupDateTest7.jpg this file was created at --->7/31/2021 8:19:24 AM
+"test"user logged in system at 7/31/2021 8:20:13 AM
+"test"user logged in system at 7/31/2021 8:31:20 AM
+""entered Classes7/31/2021 8:31:58 AM
+"test"user logged in system at 7/31/2021 8:32:16 AM
+"test"user logged in system at 7/31/2021 9:13:09 AM
+"test"user logged in system at 7/31/2021 9:15:20 AM
+"test"user logged in system at 7/31/2021 9:18:45 AM
+"test"user logged in system at 7/31/2021 9:21:33 AM
+"test"user logged in system at 7/31/2021 9:22:39 AM
+"test"user logged in system at 7/31/2021 9:23:21 AM
+"test"user logged in system at 7/31/2021 9:23:46 AM
+"test"user logged in system at 7/31/2021 9:30:23 AM
+"test"user logged in system at 7/31/2021 9:31:01 AM
+"test"user logged in system at 7/31/2021 9:32:18 AM
+"test"user logged in system at 7/31/2021 9:34:31 AM
+"test"user logged in system at 7/31/2021 9:35:36 AM
+"test"user logged in system at 7/31/2021 9:38:47 AM
+"test"user logged in system at 7/31/2021 9:39:31 AM
+"test"user logged in system at 7/31/2021 9:43:30 AM
+""user enterd log.txt7/31/2021 9:43:32 AM
+""entered Classes7/31/2021 9:43:49 AM
+""Closed Programm7/31/2021 9:43:51 AM
+
